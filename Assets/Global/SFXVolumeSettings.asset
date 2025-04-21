@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 974963e3fb9f2654fa21f5422c05286e, type: 3}
+  m_Name: SFXVolumeSettings
+  m_EditorClassIdentifier: 
+  title: Sound
+  audioMixer: {fileID: 24100000, guid: e3dc1c4577307934abd86d33300a4def, type: 2}
+  nameSetting: SFX Volume
+  virtualStep: 10
+  minRealValue: -80
+  maxRealValue: 0
+  minVirtualValue: 0
+  maxVirtualValue: 100
